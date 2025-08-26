@@ -7,3 +7,5 @@ instead of file uploading we can update information of patient
 use react and mongodb
 
 install all the dependencies
+
+complete phase by phase
